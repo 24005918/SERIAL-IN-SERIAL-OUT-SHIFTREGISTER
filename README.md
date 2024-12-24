@@ -67,8 +67,9 @@ endmodule
 ![{33BEE82D-2F7F-464B-BF5A-059840BFB9D7}](https://github.com/user-attachments/assets/04059c56-b7ef-4cd5-a223-f56f825f46fd)
 
 **TIMING DIGRAMS FOR SISO Shift Register**
-![{600497D3-C777-4811-AE7C-9FC218CA5E8A}](https://github.com/user-attachments/assets/551281a9-b890-4fbd-a056-a94df9463201)
+![{86A4D214-7815-40D4-B09B-90EBD2924923}](https://github.com/user-attachments/assets/4f66b282-b464-4b59-907c-c821f3fa9532)
+
 
 **RESULTS**
-      Thus,SISO Shift Register using verilog and validating their functionality using their
+    Thus,SISO Shift Register using verilog and validating their functionality using their
  functional tables has successful execution of the program.
